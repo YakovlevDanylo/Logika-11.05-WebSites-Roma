@@ -1,0 +1,144 @@
+body {
+    font-family: sans-serif;
+    background-color: #116446;
+    margin: 0;
+    color:white;
+}
+h1{
+    text-align: center;
+}
+header{
+    background-image: linear-gradient(to right, lightblue, white, red);
+    height: 150px;
+    margin: 0;
+    text-align: center;
+}
+
+.why-info {
+    font-size: 40px;
+    width: 500px;
+    margin: 0 auto;
+    border: 5px dashed black;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.Match{
+    height: 70px;
+    width: 70px;
+}
+p{
+color: white;
+}
+nav a{
+font-size: 20px;
+color: white;
+padding: 0 100px 0 100px;
+text-decoration: none;
+}
+nav{
+border-bottom: 3px solid white;
+padding-bottom: 10px;
+border-top: 3px solid white;
+padding-top: 10px;
+margin: 20px;
+text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.Bonuses{
+    height: 150px;
+    width: 350px;
+}
+.contents{
+    display: flex;
+    flex-wrap: wrap;
+    width:  1200px;
+    background-color: #376E6F;
+    margin: 0px auto;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.content{
+margin-right: 100px;
+margin-top: 30px;
+padding: 0px; 
+display: flex;
+width: 400px;
+
+}
+
+.content p {
+    font-size: 32px;
+    padding-left: 20px;
+}
+.prises{
+    width: 300px;
+    height: 150px;
+}
+.buy{
+    width: 200px;
+    height: 200px;
+}
+.Busters{
+    width: 200px; 
+    height: 250px;
+}
+
+.bonusess {
+    display: flex;
+    width: 1680px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.bonus {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    align-items: center;
+    background-color: #123C69;
+    margin-bottom: 40px;
+    
+}
+
+.bonus h2 {
+    padding: 0;
+    margin: 0;
+}
+
+.bonus img {
+    width: 200px;
+    height:200px;
+}
+
+.presents {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.presents img {
+    width: 500px;
+    height: auto;
+}
+
+.battle-pass {
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: 
+}
+
+.battle-pass p {
+
+    text-align: center;
+}
+
+
+
+
